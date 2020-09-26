@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.mapboxgl-popup-content{
+  border: 2px solid rgb(0, 204, 136)!important;
+  border-radius: 16px!important;
+}
+
+.mapboxgl-popup {
+  z-index: 4!important;
+}
